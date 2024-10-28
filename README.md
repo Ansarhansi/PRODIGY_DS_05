@@ -22,5 +22,5 @@ This analysis highlights key patterns in traffic accident data, such as high acc
 Contact Information
 For any inquiries or feedback regarding this project, please contact:
 
-Tufan Kundu (LinkedIn)
-Email: tufan.kundu11@gmail.com
+Ansar Hansi (LinkedIn)
+Email: ansarhansi29@gmail.com
